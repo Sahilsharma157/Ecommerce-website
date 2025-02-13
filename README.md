@@ -3,7 +3,7 @@
 ## Overview
 This is a fully functional e-commerce website built using **HTML, CSS, JavaScript, and MySQL DB**. The website allows users to browse products, add them to a shopping cart, and proceed to checkout.
 
-## Features
+## Features :
 - 🛍️ **Product Listing** - View a variety of products with images, descriptions, and prices.
 - 🛒 **Add to Cart** - Easily add products to the shopping cart and adjust quantities.
 - 💳 **Checkout Process** - A streamlined checkout experience for users.
