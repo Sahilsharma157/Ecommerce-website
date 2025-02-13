@@ -11,7 +11,7 @@ This is a fully functional e-commerce website built using **HTML, CSS, JavaScrip
 - 📦 **Order Management** - Track orders and purchase history.
 - 🛡️ **User Authentication** - Secure login and registration system.
 
-## Technologies Used
+## Technologies Used :
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js
 - **Database:** MySQL
