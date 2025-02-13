@@ -35,7 +35,7 @@ This is a fully functional e-commerce website built using **HTML, CSS, JavaScrip
    OR use XAMPP/MAMP for running the project locally.
 
 ## Screenshots
-LOGIN Page
+LOGIN Page :
 ![Login page](https://github.com/user-attachments/assets/c9479079-f431-4634-921c-1687979c8a37)
 
 
