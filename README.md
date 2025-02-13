@@ -13,7 +13,7 @@ This is a fully functional e-commerce website built using **HTML, CSS, JavaScrip
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP (or Node.js, if applicable)
+- **Backend:** Node.js
 - **Database:** MySQL
 
 ## Installation & Setup
