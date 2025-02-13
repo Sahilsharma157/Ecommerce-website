@@ -47,7 +47,7 @@ Products Page
 ![Products page](https://github.com/user-attachments/assets/36445310-3d79-41b9-b4b4-d041af49447c)
 
 
-Checkout Page 
+Checkout Page :
 ![Checkout section](https://github.com/user-attachments/assets/70c50d2c-b416-4ce8-af8d-de06968239d6)
 
 
