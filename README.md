@@ -16,7 +16,7 @@ This is a fully functional e-commerce website built using **HTML, CSS, JavaScrip
 - **Backend:** Node.js
 - **Database:** MySQL
 
-## Installation & Setup
+## Installation & Setup :
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repository.git
