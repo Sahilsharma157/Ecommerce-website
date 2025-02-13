@@ -39,7 +39,7 @@ LOGIN Page
 ![Login page](https://github.com/user-attachments/assets/c9479079-f431-4634-921c-1687979c8a37)
 
 
-HOME Page
+HOME Page :
 ![Home page](https://github.com/user-attachments/assets/472ced17-6e47-48a7-8ff0-b94605943a63)
 
 
